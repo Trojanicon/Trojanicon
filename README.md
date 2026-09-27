@@ -2,9 +2,8 @@
 <h3 align="center">CS & Software Engineering student, building for real problems</h3>
 
 <p align="center">
-  Studying Computer Science, Software Engineering, and Literature at university in Kenya.
-  I like building things that solve everyday problems, from crop insurance for farmers to
-  prayer-time apps, and I'm slowly turning GitHub into a habit, not just a homework dump.
+  Studying Computer Science
+  I like building things that solve everyday problems. 
 </p>
 
 ### What I'm building
