@@ -2,7 +2,16 @@
 <h3 align="center">Computer Science student, building for real problems</h3>
 
 <p align="center">
-    I like building things that solve everyday problems, no matter how big or small. 
+I like building things that solve everyday problems, no matter how big or small.     
+As a computer science student at Meru University of Science and Technology, I thrive on solving complex problems and turning ideas into reality. During my time at university, I have successfully worked on projects involving developing a git battle mobile app,a street view mapping app fot the school, which honed my skills in:
+1. Mobile Development (Flutter/Dart)
+JSON serialization, Async programming, Data visualization and Animation
+2. Backend Development (Node.js)
+Third-party API integration, Background processing, error handling 
+3. Systems & Architecture
+4. DevOps & Tooling
+5. Product & Design Thinking
+I am a collaborative team player who loves learning new technologies and methodologies.
 </p>
 
 ### What I'm building
@@ -46,4 +55,3 @@
 
 <p align="center"><i>Thanks for stopping by, feel free to explore my repos above.</i></p>
 
-<p align="center"><i>Thanks for stopping by, feel free to explore my repos above.</i></p>
