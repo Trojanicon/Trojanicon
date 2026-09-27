@@ -2,17 +2,17 @@
 <h3 align="center">Computer Science student, building for real problems</h3>
 
 <p align="center">
-I like building things that solve everyday problems, no matter how big or small.     
-As a computer science student at Meru University of Science and Technology, I thrive on solving complex problems and turning ideas into reality. During my time at university, I have successfully worked on projects involving developing a git battle mobile app,a street view mapping app fot the school, which honed my skills in:
-1. Mobile Development (Flutter/Dart)
-JSON serialization, Async programming, Data visualization and Animation
-2. Backend Development (Node.js)
-Third-party API integration, Background processing, error handling 
-3. Systems & Architecture
-4. DevOps & Tooling
-5. Product & Design Thinking
-I am a collaborative team player who loves learning new technologies and methodologies.
+I'm a Computer Science student at Meru University of Science and Technology who likes turning ideas into working software, big or small.<br>
+I've built projects like GitBattle, a mobile app, and a street view mapping app for the school, and I love learning new technologies as part of a team.
 </p>
+
+### Core skills
+
+- **Mobile Development (Flutter/Dart):** JSON serialization, async programming, data visualization, animation
+- **Backend Development (Node.js):** third-party API integration, background processing, error handling
+- **Systems & Architecture**
+- **DevOps & Tooling**
+- **Product & Design Thinking**
 
 ### What I'm building
 
@@ -47,11 +47,8 @@ I am a collaborative team player who loves learning new technologies and methodo
 
 ### Connect
 
-### Connect
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salim-juma-797b78418)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/trojanikon)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/share/1CMrfxP9DK/)
 
 <p align="center"><i>Thanks for stopping by, feel free to explore my repos above.</i></p>
-
