@@ -1,9 +1,8 @@
 <h1 align="center">Hi, I'm Salim</h1>
-<h3 align="center">CS & Software Engineering student, building for real problems</h3>
+<h3 align="center">Computer Science student, building for real problems</h3>
 
 <p align="center">
-  Studying Computer Science
-  I like building things that solve everyday problems. 
+    I like building things that solve everyday problems, no matter how big or small. 
 </p>
 
 ### What I'm building
@@ -39,8 +38,12 @@
 
 ### Connect
 
-<!-- Add your links here, e.g.: -->
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](your-linkedin-url) -->
-<!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](your-twitter-url) -->
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salim-juma-797b78418)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/trojanikon)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/share/1CMrfxP9DK/)
+
+<p align="center"><i>Thanks for stopping by, feel free to explore my repos above.</i></p>
 
 <p align="center"><i>Thanks for stopping by, feel free to explore my repos above.</i></p>
