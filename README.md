@@ -35,8 +35,8 @@ I've built projects like GitBattle, a mobile app, and a street view mapping app 
 ### GitHub Stats
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Trojanicon&show_icons=true&theme=dark&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trojanicon&layout=compact&theme=dark&hide_border=true"/>
+  <img height="180em" src="./profile/stats.svg" alt="GitHub stats"/>
+  <img height="180em" src="./profile/top-langs.svg" alt="Top languages"/>
 </p>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Trojanicon&theme=dark&hide_border=true)](https://git.io/streak-stats)
