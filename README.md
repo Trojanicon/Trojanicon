@@ -25,6 +25,7 @@ I've built projects like GitBattle, a mobile app, and a street view mapping app 
 - **[Swalah](https://github.com/Trojanicon/swalah)**: A Flutter/Android Islamic prayer times
   and Adhan reminder app, with offline astronomical prayer-time calculation, an Aladhan API
   fallback, and native AlarmManager integration for reliable alerts.
+  clock simplisity
 
 ### Tools & tech
 
