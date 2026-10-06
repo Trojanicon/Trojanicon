@@ -1,15 +1,15 @@
 
       <svg
-        width="304"
+        width="373.4666657447815"
         height="195"
-        viewBox="0 0 304 195"
+        viewBox="0 0 373.4666657447815 195"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">salim juma&#39;s GitHub Stats, Rank: C</title>
-        <desc id="descId">Total Stars Earned: 2, Total Commits  (last year) : 64, Total PRs: 1, Total Issues: 0, Contributed to (last year): 0</desc>
+        <title id="titleId">Salim Juma Njoroge&#39;s GitHub Stats, Rank: C</title>
+        <desc id="descId">Total Stars Earned: 2, Total Commits  (last year) : 65, Total PRs: 1, Total Issues: 0, Contributed to (last year): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 232.5755585285004;
+        stroke-dashoffset: 232.47843857587165;
       }
     }
   
@@ -117,7 +117,7 @@
           rx="4.5"
           height="99%"
           stroke="#e4e2e2"
-          width="303"
+          width="372.4666657447815"
           fill="#151515"
           stroke-opacity="0"
         />
@@ -133,7 +133,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >salim juma&#39;s GitHub Stats</text>
+      >Salim Juma Njoroge&#39;s GitHub Stats</text>
     </g>
       </g>
     
@@ -173,7 +173,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >64</text>
+      >65</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -218,7 +218,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >0</text>
+      >1</text>
     </g>
   </g>
     </svg>
